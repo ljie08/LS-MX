@@ -1,0 +1,30 @@
+//
+//  PrefixHeader.pch
+//  MyLottery
+//
+//  Created by ljie on 2017/8/4.
+//  Copyright © 2017年 AppleFish. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIImage+Category.h"
+#import "NSString+MD5.h"
+#import "LJUtil.h"
+#import "MJExtension.h"
+#import "Header.h"
+#import "JJRefreshTabView.h"//刷新tableview
+#import "UIImageView+WebCache.h"
+#import <WMPageController/WMPageController.h>
+#import "ModelHeader.h"
+#import "UrlDefine.h"
+#import "WebManager.h"
+#import <Masonry/Masonry.h>
+#import "PersonDataManager.h"
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
